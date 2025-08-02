@@ -1,0 +1,20 @@
+{
+  "name": "vrcam02",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aframe": "1.6",
+    "bootstrap": "^5.3.6",
+    "mqtt": "^5.8.1",
+    "next": "15.4.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sora-js-sdk": "^2025.1.0"
+  }
+}
